@@ -84,13 +84,13 @@ function Register(props) {
                 <Text tag="h1" textSize="display3">
                   Create your{" "}
                   <Text tag="span" textColor="secondary">
-                    FigFinance
+                    TechEventsUK
                   </Text>{" "}
                   account with us today
                 </Text>
                 <Text textColor="black900" textSize="title" p={{ y: "1rem" }}>
-                  We protects your personal info with industry-standard SSL and
-                  encryption so everything is always safe and secure.
+                  Your personal information is protected with industry-standard
+                  SSL and encryption so everything is always safe and secure.
                 </Text>
                 <Div m={{ y: "1rem" }}>
                   <Row>

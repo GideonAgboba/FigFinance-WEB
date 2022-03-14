@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Div, Text, Button, SideDrawer, Icon, Image, Input } from "atomize";
+import { Div, Text, Button, SideDrawer, Icon, Image } from "atomize";
 import { Link } from "react-router-dom";
 import LOGO from "../../assets/images/logo-w.png";
 

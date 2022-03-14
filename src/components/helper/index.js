@@ -1,6 +1,3 @@
-import moment from "moment";
-import Axios from "../../redux/axios";
-
 export default {
   getInitials(string) {
     var names = string.split(" "),

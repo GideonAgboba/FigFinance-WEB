@@ -92,38 +92,6 @@ a:hover {
   .desktop-md-hide {
     display: none !important;
   }
-
-  /* .faq-0 {
-    position: absolute;
-    top: 20%;
-    left: 40%;
-    transform: translate(-50%, -50%);
-    z-index: 4;
-  }
-
-  .faq-1 {
-    position: absolute;
-    bottom: 15%;
-    right: -20%;
-    transform: translate(-50%, -50%);
-    z-index: 3;
-  }
-
-  .faq-2 {
-    position: absolute;
-    bottom: 55%;
-    left: 20%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
-  }
-
-  .faq-3 {
-    position: absolute;
-    bottom: 30%;
-    left: 10%;
-    transform: translate(-50%, -50%);
-    z-index: 1;
-  } */
 }
 
 @media (min-width: 992px) {
@@ -188,11 +156,6 @@ a:hover {
   }
 }
 
-.divider {
-  /* height: 1px; */
-  /* margin: 5px 0px; */
-}
-
 .panel-active-marker {
   height: 10px;
   position: absolute;
@@ -204,28 +167,6 @@ a:hover {
 .sticky-panel {
   position: sticky !important;
   top: 20px;
-}
-
-.break-text {
-  word-break: break-all !important;
-}
-
-.layer-badge {
-  position: absolute;
-  top: 20px;
-  right: 0px;
-  padding: 5px 30px;
-  border-top-left-radius: 4px;
-  border-bottom-left-radius: 4px;
-  border-top: 0.1px solid rgba(211, 211, 211, 0.493);
-  border-left: 0.1px solid rgba(211, 211, 211, 0.493);
-  border-bottom: 0.1px solid rgba(211, 211, 211, 0.493);
-}
-
-.admin-data {
-  background: #2b2a2e;
-  padding: 30px 30px;
-  box-shadow: 1px 1px 3px #eee;
 }
 
 .p-i:not(:focus) {
