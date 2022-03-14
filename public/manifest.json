@@ -1,0 +1,25 @@
+{
+  "short_name": "figfinance",
+  "name": "figfinance",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "200x80",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "200x802"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "200x802"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
